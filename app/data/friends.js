@@ -1,7 +1,7 @@
 var friendsArray = [
     {
         name: "Alfred",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
         scores: [
             5,
             1,
@@ -16,8 +16,8 @@ var friendsArray = [
         ]
     },
     {
-         name: "Jacob Deming",
-        photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+         name: "Jacob",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
         scores: [
             4,
             2,
@@ -32,7 +32,7 @@ var friendsArray = [
         ]
     },
     {
-        name: "Jeremiah Scanlon",
+        name: "Jeremiah",
         photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
         scores: [
             5,
@@ -48,8 +48,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "Louis T. Delia",
-        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        name: "Roger",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460   ",
         scores: [
             3,
             3,
@@ -64,8 +64,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "Lou Ritter",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        name: "Lou",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
         scores: [
             4,
             3,
@@ -81,7 +81,7 @@ var friendsArray = [
     },
     {
         name: "Jordan",
-        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
         scores: [
             4,
             4,
@@ -96,8 +96,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "nate",
-        photo: "test",
+        name: "Nate",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
         scores: [
             2,
             3,
@@ -113,7 +113,7 @@ var friendsArray = [
     },
     {
         name: "Alex ",
-        photo: "C:\\Users\\Bhargav\\Pictures",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
         scores: [
             5,
             1,
@@ -128,8 +128,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "Kat",
-        photo: "https://en.wiktionary.org/wiki/cat#/media/File:Cat03.jpg",
+        name: "Tony",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
         scores: [
             5,
             3,
@@ -144,8 +144,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "Kat 2",
-        photo: "https://en.wiktionary.org/wiki/cat#/media/File:Cat03.jpg",
+        name: "Edgar",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
         scores: [
             3,
             3,
@@ -160,8 +160,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "Ron",
-        photo: "aslkjfsdlkjadfs",
+        name: "Ben",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
         scores: [
             1,
             1,
@@ -176,8 +176,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "Thomas",
-        photo: "https://vignette.wikia.nocookie.net/ttte/images/c/c3/ThomasPromotionalIllustration.jpg/revision/latest?cb=20170609193117",
+        name: "Trey",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
         scores: [
             2,
             2,
@@ -192,8 +192,8 @@ var friendsArray = [
         ]
     },
     {
-        name: "Pinky",
-        photo: "https://orig00.deviantart.net/8230/f/2017/181/5/d/martha_the_pink_engine_cgi_by_mrathehedgehog-dbemj94.jpg",
+        name: "Cameron",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
         scores: [
             3,
             3,
@@ -209,7 +209,7 @@ var friendsArray = [
     },
     {
         name: "Trevor",
-        photo: "https://www.top13.net/wp-content/uploads/2015/10/perfectly-timed-cat-photos-funny-cover.jpg",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
         scores: [
             1,
             3,

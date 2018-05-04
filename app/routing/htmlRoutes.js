@@ -44,7 +44,7 @@ module.exports = function(app) {
         };
 
         console.log("The best match is " + friendsArray[minIndex].name);       
-
+        
         
     });
 };
