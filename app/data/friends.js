@@ -1,3 +1,7 @@
+
+// This file does nothing but hold the array of information
+// about potential matches
+
 var friendsArray = [
     {
         name: "Alfred",
